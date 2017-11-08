@@ -1,0 +1,6 @@
+pypokerengine
+numpy
+keras
+sklearn
+tensorflow
+h5py
